@@ -1,2 +1,2 @@
 # newProject
-the first Project in GitHub
+my first Project in GitHub
